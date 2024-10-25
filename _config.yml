@@ -14,12 +14,12 @@ timezone: Asia/Saigon
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Tien Dang # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: "Coding, Chaos, and Contemplating My Existence: Welcome to My Mind" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  This is tien02 blog.
+  tiendang, tien02, blog, ai, machine learning, code
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://pbs.twimg.com/profile_images/1849847540684070912/E5UZZaus_400x400.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
